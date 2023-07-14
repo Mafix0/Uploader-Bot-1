@@ -27,5 +27,5 @@ class Config(object):
     OWNER_ID = "932420516"
     SESSION_NAME = "UPLOADER-X-BOT"
     # database uri (mongodb)
-    DATABASE_URL = "mongodb+srv://UploadBot:Aail7172@cluster0.bjeypjj.mongodb.net/?retryWrites=true&w=majority"
+    DATABASE_URL = "mongodb+srv://Mafix:Aail7172@cluster0.p2s3qiv.mongodb.net/"
     MAX_RESULTS = "50"
