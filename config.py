@@ -2,7 +2,7 @@ import os
 
 class Config(object):
     # get a token from @BotFather
-    BOT_TOKEN = "1096391424:AAHfPgDY923cirj6jtnoGBVI2VDiikWhSl8"
+    BOT_TOKEN = "6396672577:AAFZlY6Gi17e_AlqnaRYmk3YS5gYsFLYa68"
     # The Telegram API things
     API_ID = "26489380"
     API_HASH = "4167d8b8779aab33b73810feb3c77021"
@@ -14,7 +14,7 @@ class Config(object):
     TG_MAX_FILE_SIZE = 2097152000
     FREE_USER_MAX_FILE_SIZE = 50000000
     # chunk size that should be used with requests
-    CHUNK_SIZE = int(128)
+    CHUNK_SIZE = "128"
     # default thumbnail to be used in the videos
     # proxy for accessing youtube-dl in GeoRestricted Areas
     # Get your own proxy from https://github.com/rg3/youtube-dl/issues/1091#issuecomment-230163061
@@ -25,7 +25,7 @@ class Config(object):
     PROCESS_MAX_TIMEOUT = 3600
     # your telegram id
     OWNER_ID = "932420516"
-    SESSION_NAME = "UPLOADER-X-BOT"
+    SESSION_NAME = "عزبعزب"
     # database uri (mongodb)
-    DATABASE_URL = "mongodb+srv://Mafix:Aail7172@cluster0.p2s3qiv.mongodb.net/"
+    DATABASE_URL = "mongodb+srv://UploadBot:Aail7172@cluster0.bjeypjj.mongodb.net/?retryWrites=true&w=majority"
     MAX_RESULTS = "50"
